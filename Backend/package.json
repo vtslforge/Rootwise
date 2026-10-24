@@ -13,7 +13,6 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@neondatabase/neon-js": "^0.9.0-beta",
     "better-auth": "^1.7.12",
     "cors": "^2.8.6",
     "dotenv": "^18.0.8",
